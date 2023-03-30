@@ -5,5 +5,5 @@ Currently when converting a 2D fluent mesh, two surfaces will be combined to `fr
 
 ## Usage
 ```
-fluent2DMeshToFoam -2D *** ***.msh
+fluent2DMeshToFoam -2D <thickness> <filename>.msh
 ```
