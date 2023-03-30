@@ -1,0 +1,6 @@
+extrudedTriangleCellShape.C
+extrudedQuadCellShape.C
+create3DCellShape.C
+fluent2DMeshToFoam.L
+
+EXE = $(FOAM_USER_APPBIN)/fluent2DMeshToFoam
